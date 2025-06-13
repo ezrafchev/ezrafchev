@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ezrafchev
 - 👀 I’m interested in learn programming and solve all the problems that come my way.
 - 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on the entire community of developers and students
+- 💞️ I’m looking to collaborate on the entire collaborative community of developers and students
 - 📫 How to reach me - @ezrafchev in all social media
 
 <!---
